@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirhossein
 - 👀 I’m interested in Front End web development
-- 🌱 I’m currently learning React and C++
+- 🌱 I’m currently learning NextJS and NodeJS
 - 💞️ I’m looking to collaborate on Front End frameworks and related things
 - 📫 How to reach me ===> amir13811990@gmail.com
 
