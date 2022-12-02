@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Mazaheri</h1>
 <h3 align="center">A Nice FullStack Developer with passion</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightspeedguy" alt="lightspeedguy" /></a> </p>
-
 - 🔭 I’m currently working on **Getting better 😎**
 
 - 🌱 I’m currently learning **"Life" 🙂**
